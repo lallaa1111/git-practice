@@ -13,4 +13,4 @@ members:
 - Kim
 
 fetch: this
-sign: yes
+sign: no
